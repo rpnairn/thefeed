@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "img"
+		},
+		{
+			"path": "css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "img"
+	}
+}

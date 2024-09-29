@@ -24,7 +24,7 @@ header img:hover {
 nav {
     background-color: black;
     padding: 3%;
-    height: 100vh;
+    height: 115vh;
     position: fixed;
     top: 0px;
     left: 0px;
@@ -36,13 +36,13 @@ nav img {
 }
 
 h1 {
-    font-size: 30pt;
+    font-size: 25pt;
 }
 
 main {
     background-color: #323232;
     max-width: 90%;
-    margin-left: 20%;
+    margin-left: 25%;
     padding: 10%;
     display: flex;
     flex-wrap: wrap;
@@ -74,6 +74,7 @@ footer h1 {
 }
 
 #friends {
+    background-color: #323232;
     border: 5px solid #da1f28;
     text-align: center;
     padding: 3%;
